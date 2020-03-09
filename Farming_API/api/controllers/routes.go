@@ -1,6 +1,6 @@
 package controllers
 
-import "gitlab.com/siwacarn/Golang_API/Farming_API/middlewares"
+import "github.com/siwacarn/Golang_API/Farming_API/middlewares"
 
 func (s *Server) initializeRoutes() {
 	// Home route

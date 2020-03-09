@@ -5,9 +5,9 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/auth"
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/models"
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/responses"
+	"github.com/siwacarn/Golang_API/Farming_API/api/auth"
+	"github.com/siwacarn/Golang_API/Farming_API/api/models"
+	"github.com/siwacarn/Golang_API/Farming_API/api/responses"
 	"gitlab.com/siwacarn/Golang_API/Farming_API/api/utils/formaterror"
 
 	"golang.org/x/crypto/bcrypt"

@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/controllers"
+	"github.com/siwacarn/Golang_API/Farming_API/api/controllers"
 
 	"github.com/joho/godotenv"
 )

@@ -5,11 +5,12 @@ import (
 	"log"
 	"net/http"
 
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/models"
+	"github.com/siwacarn/Golang_API/Farming_API/api/models"
 
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
+	"github.com/siwacarn/Golang_API/Farming_API/api/models"
 )
 
 type Server struct {

@@ -3,7 +3,7 @@ package controllers
 import (
 	"net/http"
 
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/responses"
+	"github.com/siwacarn/Golang_API/Farming_API/api/responses"
 )
 
 func (server *Server) Home(w http.ResponseWriter, r *http.Request) {

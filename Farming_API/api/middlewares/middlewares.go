@@ -4,8 +4,8 @@ import (
 	"errors"
 	"net/http"
 
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/auth"
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/responses"
+	"github.com/siwacarn/Golang_API/Farming_API/api/auth"
+	"github.com/siwacarn/Golang_API/Farming_API/api/responses"
 )
 
 func SetMiddlewareJSON(next http.HandlerFunc) http.HandlerFunc {
