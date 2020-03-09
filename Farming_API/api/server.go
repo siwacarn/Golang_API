@@ -5,8 +5,9 @@ import (
 	"log"
 	"os"
 
+	"gitlab.com/siwacarn/Golang_API/Farming_API/api/controllers"
+
 	"github.com/joho/godotenv"
-	"github.com/siwacarn/Farming_API/api/controllers"
 )
 
 var server = controllers.Server{}
