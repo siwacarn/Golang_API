@@ -5,8 +5,6 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/siwacarn/Golang_API/Farming_API/api/models"
-
 	"github.com/gorilla/mux"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"

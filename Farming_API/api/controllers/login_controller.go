@@ -8,7 +8,7 @@ import (
 	"github.com/siwacarn/Golang_API/Farming_API/api/auth"
 	"github.com/siwacarn/Golang_API/Farming_API/api/models"
 	"github.com/siwacarn/Golang_API/Farming_API/api/responses"
-	"gitlab.com/siwacarn/Golang_API/Farming_API/api/utils/formaterror"
+	"github.com/siwacarn/Golang_API/Farming_API/api/utils/formaterror"
 
 	"golang.org/x/crypto/bcrypt"
 )
